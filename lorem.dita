@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="lorem">
+ <title>Lorem Ipsum</title>
+  <body>
+   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non commodo mi. Donec cursus condimentum dignissim. Nulla ac ipsum vel nisi placerat posuere. Curabitur eleifend aliquam rhoncus. Quisque sodales tempor metus commodo vehicula. Suspendisse potenti. Aliquam at tortor risus. Curabitur eget mi ut magna fringilla auctor. Fusce nibh sem, facilisis id volutpat eu, convallis in nibh. Maecenas mauris risus, gravida sed tempor sit amet, aliquam quis lectus. Mauris id metus vel lacus facilisis cursus. Aenean venenatis elementum eros, nec sollicitudin enim vulputate sed. Morbi eget neque ac dui ullamcorper ullamcorper. In convallis ligula eu purus rutrum bibendum.</p>
+   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit:</p>
+    <ul>
+     <li>Lorem ipsum dolor sit amet</li>
+     <li>Lorem ipsum dolor sit amet</li>
+     <li>Lorem ipsum dolor sit amet</li>
+    </ul>
+   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non commodo mi. Donec cursus condimentum dignissim. Nulla ac ipsum vel nisi placerat posuere. Curabitur eleifend aliquam rhoncus. Quisque sodales tempor metus commodo vehicula. Suspendisse potenti. Aliquam at tortor risus. Curabitur eget mi ut magna fringilla auctor. Fusce nibh sem, facilisis id volutpat eu, convallis in nibh. Maecenas mauris risus, gravida sed tempor sit amet, aliquam quis lectus. Mauris id metus vel lacus facilisis cursus. Aenean venenatis elementum eros, nec sollicitudin enim vulputate sed. Morbi eget neque ac dui ullamcorper ullamcorper. In convallis ligula eu purus rutrum bibendum.</p>
+   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non commodo mi. Donec cursus condimentum dignissim. Nulla ac ipsum vel nisi placerat posuere. Curabitur eleifend aliquam rhoncus. Quisque sodales tempor metus commodo vehicula. Suspendisse potenti. Aliquam at tortor risus. Curabitur eget mi ut magna fringilla auctor. Fusce nibh sem, facilisis id volutpat eu, convallis in nibh. Maecenas mauris risus, gravida sed tempor sit amet, aliquam quis lectus. Mauris id metus vel lacus facilisis cursus. Aenean venenatis elementum eros, nec sollicitudin enim vulputate sed. Morbi eget neque ac dui ullamcorper ullamcorper. In convallis ligula eu purus rutrum bibendum.</p>
+  </body>
+</topic>
